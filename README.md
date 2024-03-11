@@ -3,7 +3,7 @@ I don't take any responsibility for anything that happens as a result of this. P
 ※I use google translate for translation
 
 
-##This is how it should be:
+## This is how it should be:
 
 First, check if this code is written in Python.
 If you answer the input there correctly, you will encounter the following problem
